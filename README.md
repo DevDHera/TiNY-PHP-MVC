@@ -10,6 +10,10 @@ Getting started with `TiNY PHP MVC` is easy. Just clone the repo and work your m
 git clone https://github.com/DevDHera/TiNY-PHP-MVC.git
 ```
 
+### Example
+
+Try out the [Quizee](https://github.com/DevDHera/Quizee) an Online Examination Platform developed on top of `TiNY PHP MVC` framework.
+
 ### Prerequisites
 
 - Apache Server
